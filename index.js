@@ -1,8 +1,12 @@
 const element = ( 
 <div className="bg-container">
+
     <div >
+
         <h1 className="heading">Congratulations</h1>
-    <div>
+
+    <div>  // Replace <div> with </div>
+
     <div className="card1">
         <img src="https://assets.ccbp.in/frontend/react-js/congrats-card-profile-img.png"/>
         <div className="description">
